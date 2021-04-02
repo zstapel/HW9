@@ -1,0 +1,23 @@
+img{
+  width: 400px;
+  align-content: center;
+}
+
+h2 {
+	position: absolute;
+	width: 198px;
+	height: 67px;
+	left: 621px;
+	top: 78px;
+
+	font-family: Charter;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 55px;
+	line-height: 67px;
+}
+
+h1{
+  font-family: sans-serif;
+  font-size: 20px;
+}
