@@ -44,11 +44,11 @@ function showFan_page() {
 
 		glossiersContainer.appendChild(glossiersName);
 
-		// const glossiersDescription  = document.createElement("p");
+		const glossiersDescription  = document.createElement("p");
 
-		// glossiersDescription.innerHTML = glossier.fields.description;
+		glossiersDescription.innerHTML = glossier.fields.description;
 
-		// glossiersDescription.appendChild(glossiersDescription);
+		glossiersContainer.appendChild(glossiersDescription);
 
 	});
 }
